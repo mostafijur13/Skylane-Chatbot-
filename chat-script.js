@@ -5,11 +5,11 @@
 // ⚠️ Paste your NEW Groq key here for local testing only.
 // Anything in this file is visible to anyone who opens DevTools on your site —
 // move this to a serverless proxy before you deploy publicly.
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "AQ.Ab8RN6ItW-V5iY_Ux8-yUTUaUIImtLWpJrY0OB1StoB6gSETdg";
 
 // llama-3.1-8b-instant was shut down by Groq on 16 Aug 2026.
 // Migration path: openai/gpt-oss-20b (small/fast) or openai/gpt-oss-120b (stronger).
-const MODEL_NAME = "openai/gpt-oss-20b";
+const MODEL_NAME = "gemini-3.7-flash";
 
 // gpt-oss models are reasoning models — "hidden" stops the thinking text from
 // streaming into the chat bubbles. Set to "parsed" if you ever want it separately.
