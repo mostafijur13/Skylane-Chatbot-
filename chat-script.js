@@ -5,7 +5,7 @@
 // ⚠️ Paste your NEW Groq key here for local testing only.
 // Anything in this file is visible to anyone who opens DevTools on your site —
 // move this to a serverless proxy before you deploy publicly.
-const GROQ_API_KEY = "AQ.Ab8RN6ItW-V5iY_Ux8-yUTUaUIImtLWpJrY0OB1StoB6gSETdg";
+const GROQ_API_KEY = "AQ.Ab8RN6KusY8jmRRJG9PU7gLMCyQI1n_blLEX6hqTtiM0ienvSw";
 
 // llama-3.1-8b-instant was shut down by Groq on 16 Aug 2026.
 // Migration path: openai/gpt-oss-20b (small/fast) or openai/gpt-oss-120b (stronger).
