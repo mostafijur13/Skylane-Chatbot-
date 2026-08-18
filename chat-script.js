@@ -1,7 +1,7 @@
 // ============================================================================
 // CONFIGURATION
 // ============================================================================
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "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";
 
 // Using Llama 3 8B on Groq for blazing fast, free responses
 const MODEL_NAME = "llama-3.1-8b-instant";
